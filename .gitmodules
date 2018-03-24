@@ -1,0 +1,3 @@
+[submodule "d3ia/d3ia"]
+	path = d3ia/d3ia
+	url = https://github.com/tonmcg/d3ia.git
